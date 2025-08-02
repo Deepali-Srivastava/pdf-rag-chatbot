@@ -47,7 +47,7 @@ pdf-rag-chatbot/
 1. **Clone the Repository:**
 
    ```
-   git clone https://github.com/....../your-repo-name.git
+   git clone https://github.com/Deepali-Srivastava/pdf-rag-chatbot
    cd pdf-rag-chatbot
    ```
 2. **(Optional) Create and activate a virtual environment:**
